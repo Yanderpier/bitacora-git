@@ -10,3 +10,4 @@ repositorios locales y remotos, y sincronizar cambios.
 
 - `bitacora.md`: documentación técnica de Git y GitHub.
 - `.gitignore`: reglas para excluir archivos `.env` y `.log`.
+- <!-- Cambio remoto para practicar fetch y pull -->
